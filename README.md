@@ -11,4 +11,4 @@ tensorflow, cv2, matplotlib, imghdr, numpy, shutil, colab, vscode
 🍉 𝗣𝗿𝗼 𝗧𝗶𝗽-
 ~ If you do not have a powerful GPU, you can use Google Colab to train your DL models as it offers T4 GPU at runtime.
 ~ You can also use 'Gradio' Module in python which helps you to test your Data Science, ML or DL projects in your browser convinently.
-![alt text]([https://drive.google.com/file/d/1V5HRAZa83kbPBFA57YhKqWZjikMx5ryS/view?usp=share_link])
+![alt text](https://drive.google.com/file/d/1V5HRAZa83kbPBFA57YhKqWZjikMx5ryS/view?usp=share_link)
